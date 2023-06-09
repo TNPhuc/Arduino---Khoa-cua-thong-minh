@@ -1,4 +1,4 @@
-================ THIẾT LẬP CHƯƠNG TRÌNH HỆ THỐNG KHÓA CỬA THÔNG MINH BẰNG ARDUINO ================
+THIẾT LẬP CHƯƠNG TRÌNH HỆ THỐNG KHÓA CỬA THÔNG MINH BẰNG ARDUINO 
 > Chủ trì đề tài: Trần Nguyễn Phúc
 
 > Thực hiện: Trần Nguyễn Phúc, Võ Thị Hồng Ánh, Nguyễn Hoàng Thiên
