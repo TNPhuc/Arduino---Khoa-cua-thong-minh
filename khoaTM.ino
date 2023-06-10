@@ -1,7 +1,8 @@
 /* 
-* Khóa: Lập trìn Arduino cơ bản
+* 
 * Project: Khóa điện tử thông minh
-* Người thực hiện: Trần Nguyễn Phúc, Võ Thị Hồng Ánh, Nguyễn Hoàng Thiên
+* Chủ trì đề tài: Trần Nguyễn Phúc
+* Thực hiện: Trần Nguyễn Phúc - Võ Thị Hồng Ánh - Nguyễn Hoàng Thiên
 *
 */
 #include <Keypad.h>
